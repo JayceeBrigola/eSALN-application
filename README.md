@@ -19,6 +19,13 @@ to prevent unauthorized entry. Moreover, the application adheres strictly to pri
 - Java
 - MySQL (RDBMS)
 
+## Contributors
+
+- Jan Miles Cruz
+- Denelle Dione Rosales
+- Daryll John Ugot
+
 ## Copyright
 
-© 2023 Jaycee T. Brigola. All rights reserved.
+© 2023 Jaycee Brigola. All rights reserved.
+
